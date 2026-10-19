@@ -1,0 +1,8 @@
+build/
+dist/
+stage/
+release/
+__pycache__/
+*.pyc
+*.mp4
+*.spec
