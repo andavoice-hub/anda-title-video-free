@@ -6,7 +6,7 @@
 
 ## 三步驟安裝
 
-1. 到本專案右側的 **Releases** 下載 `安達免費字卡影片-Setup.exe`，雙擊安裝，無須系統管理員權限。
+1. 下載安裝檔：[download/anda-title-video-free-Setup.exe](download/anda-title-video-free-Setup.exe)（點進去後按右上角「Download raw file」），雙擊安裝，無須系統管理員權限。
 2. 從桌面開啟「安達免費字卡影片」，每行輸入一句文字。
 3. 按「製作影片」並選擇儲存位置，即可取得 MP4。
 
